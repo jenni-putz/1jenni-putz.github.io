@@ -1,7 +1,9 @@
 ---
 title: Jenni Putz
 feature_text: | 
-feature_image: <img src= "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header.png" />
+feature_image: <p> 
+  <img src= "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header.png" width = "220" height = "100" /> 
+</p>
 excerpt: ".."
 ---
 
