@@ -1,14 +1,12 @@
 ---
 title: Jenni Putz
 feature_text: | 
-feature_image: <p> 
-  <img src= "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header.png" width = "220" height = "100" /> 
-</p>
-excerpt: ".."
+feature_image: "/header.png" 
+
 ---
 
-I am a third year PhD student in economics at the University of Oregon. My research interests are in education, environmental, and behavioral economics.
+I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics.
 
-{% include button.html text="Github" icon="github" link="https://github.com/jenni-putz" color="#9E56DE" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/pootzie_xoxo" color="#9E56DE" %} {% include button.html text="Email" icon="email" link="mailto:jputz@uoregon.edu" color="#9E56DE" %} 
+{% include button.html text="Github" icon="github" link="https://github.com/jenni-putz" color="#8596B1" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/pootzie_xoxo" color="#8596B1" %} {% include button.html text="Email" icon="email" link="mailto:jputz@uoregon.edu" color="#8596B1" %} 
 
 
