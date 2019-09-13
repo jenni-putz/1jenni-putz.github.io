@@ -1,9 +1,9 @@
 ---
-title: About
+title: Jenni Putz
 feature_text: |
-## Welcome
+  ## Welcome
 feature_image: "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header1.png"
-
+excerpt: ".."
 ---
 
 I am a third year PhD student in economics at the University of Oregon. My research interests are in education, environmental, and behavioral economics.
