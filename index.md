@@ -1,8 +1,6 @@
 ---
 title: Jenni Putz
-feature_text: |
-  ## Welcome
-feature_image: "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header1.png"
+feature_image: "https://github.com/jenni-putz/jenni-putz.github.io/blob/master/header.png"
 excerpt: ".."
 ---
 
