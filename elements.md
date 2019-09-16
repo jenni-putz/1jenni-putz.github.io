@@ -5,11 +5,14 @@ feature_text: |
 
 ### As an independent instructor:
 <html>
-  <p>
+  <body>
+  <p style="text-align:left;">
   <ul>
 <li> EC 311: Intermediate Microeconomics </li>
   </ul>
   Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
+    </p>
+  </body>
 </html>
 
 ### As a lab instructor:
