@@ -7,17 +7,14 @@ aside: true
 
 ### As an independent instructor:
 <html>
-  <p>
   <ul>
 <li> EC 311: Intermediate Microeconomics </li> <br>
 Summer 2019 [Syllabus](\EC311Syllabus.pdf "Syllabus")
   </ul>
-  </p>
 </html>
 
 ### As a lab instructor:
 <html>
-<p>
 <ul>
   <li> EC 320: Introduction to Econometrics </li> <br>
 Fall 2018, Winter 2019
@@ -26,6 +23,5 @@ Spring 2019
   <li> EC 425/525: Econometrics (First year PhD course) </li> <br>
 Spring 2019
   </ul>
-  </p>
  </html>
  
