@@ -9,8 +9,7 @@ feature_text: |
   <ul>
 <li> EC 311: Intermediate Microeconomics </li>
   </ul>
-Summer 2019 [Syllabus](\EC311Syllabus.pdf "Syllabus")
-  
+  Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
 </html>
 
 ### As a lab instructor:
