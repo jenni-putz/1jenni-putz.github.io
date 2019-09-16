@@ -3,8 +3,8 @@ title: Teaching
 feature_text: |
 ---
 
-### As an independent instructor:
 <html>
+  <h2> As an independent instructor: </h2>
   <body>
   <p style="text-align:left;">
   <ul>
@@ -12,13 +12,10 @@ feature_text: |
   </ul>
   Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
     </p>
-  </body>
-</html>
+  
+  <h2> As a lab instructor: </h2> 
 
-### As a lab instructor:
-<html>
-  <body>
-    <p style="text-align:left;">
+   <p style="text-align:left;">
 <ul>
   <li> EC 320: Introduction to Econometrics </li> 
 </ul>
