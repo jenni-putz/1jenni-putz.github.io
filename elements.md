@@ -1,10 +1,11 @@
 ---
 title: Teaching
-aside: true
+feature_text: |
 ---
 
 ### As an independent instructor:
 <html>
+  <p>
   <ul>
 <li> EC 311: Intermediate Microeconomics </li>
   </ul>
@@ -14,6 +15,8 @@ Summer 2019 [Syllabus](\EC311Syllabus.pdf "Syllabus")
 
 ### As a lab instructor:
 <html>
+  <body>
+    <p style="text-align:left;">
 <ul>
   <li> EC 320: Introduction to Econometrics </li> 
 </ul>
@@ -26,5 +29,7 @@ Spring 2019
   <li> EC 425/525: Econometrics (First year PhD course) </li> 
   </ul>
 Spring 2019
+    </p>
+  </body>
  </html>
  
