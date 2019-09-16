@@ -4,8 +4,9 @@ feature_text: |
 ---
 
 <html>
-  <h2> As an independent instructor: </h2>
   <body>
+  <div align="left">
+  <h3> As an independent instructor: </h3>
   <p style="text-align:left;">
   <ul>
 <li> EC 311: Intermediate Microeconomics </li>
@@ -13,7 +14,7 @@ feature_text: |
   Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
     </p>
   
-  <h2> As a lab instructor: </h2> 
+  <h3> As a lab instructor: </h3> 
 
    <p style="text-align:left;">
 <ul>
@@ -29,6 +30,7 @@ Spring 2019
   </ul>
 Spring 2019
     </p>
+    </div>
   </body>
  </html>
  
