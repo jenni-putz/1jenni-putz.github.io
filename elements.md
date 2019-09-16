@@ -1,10 +1,5 @@
----
-title: Teaching
-feature_text: |
-aside: true
----
 
-
+## Teaching
 ### As an independent instructor:
 <html>
   <ul>
