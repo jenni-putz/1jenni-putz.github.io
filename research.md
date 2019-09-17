@@ -6,7 +6,7 @@ aside: true
 <html>
   <body>
     <div>
-      <h2> Work In Progress <h2>
+      <h2> Work In Progress </h2>
         <ul> 
           <li> “Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </li>
         </ul>
