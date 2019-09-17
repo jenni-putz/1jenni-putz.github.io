@@ -115,7 +115,7 @@ navigation_header:
 - title: Research
   url: /research/
 - title: CV
-  url: /CV/
+  url: /CV.pdf
 
 navigation_footer:
 - title: Powered by Jekyll and Alembic
