@@ -1,6 +1,6 @@
 ---
 title: Teaching
-aside: false
+aside: true
 ---
 
 <html>
