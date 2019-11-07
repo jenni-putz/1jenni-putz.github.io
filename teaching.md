@@ -5,7 +5,7 @@ aside: false
 
 <html>
   <body>
-  <div align="left">
+  <div style = "text-align:left">
   <h3> As an independent instructor: </h3>
   <ul>
 <li> EC 311: Intermediate Microeconomics </li>
