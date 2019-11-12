@@ -49,10 +49,12 @@ img {
   <div class="column left" style="background-color:#aaa;">
     <h2>Column 1</h2>
      <img src="/headshot.jpg" style="width:200px">
-      <font size="-2"> <p>Jenni Putz <br />
-    Doctoral Student <br />
+     <center>
+     <p>Jenni Putz <br />
+   <font size="-1"> Doctoral Student <br />
     Department of Economics <br />
     University of Oregon</p></font>
+    </center>
   </div>
   <div class="column right" style="background-color:#bbb;">
     <h2>Column 2</h2>
