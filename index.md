@@ -52,7 +52,6 @@ img {
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
-    <h2>Column 1</h2>
      <img src="/headshot.jpg" style="width:200px">
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br />
