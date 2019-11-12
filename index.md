@@ -18,6 +18,9 @@ img {
 * {
   box-sizing: border-box;
 }
+.article  article--page  content  typeset{
+	width: 100% !important; 
+}
 
 /* Create two unequal columns that floats next to each other */
 .column {
@@ -45,7 +48,7 @@ img {
 <body>
 
 
-<div class="row" align="left" style="width: 1000px">
+<div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#aaa;">
      <img src="/headshot.jpg" style="width:200px">
      <p style="text-align:center">Jenni Putz <br />
