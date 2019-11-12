@@ -55,9 +55,12 @@ button {
      <img src="/headshot.jpg" style="width:40%">
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon</font></p>
-   <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">Email</a>
-   <i class="fab fa-github-square"></i><a href="https://github.com/jenni-putz">Github</a>
-   <i class="fab fa-twitter-square"></i><a href="https://twitter.com/pootzie_xoxo">Twitter</a>	  
+	  
+  <p>	  
+   <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">Email</a><br />
+   <i class="fab fa-github-square"></i><a href="https://github.com/jenni-putz">Github</a><br />
+   <i class="fab fa-twitter-square"></i><a href="https://twitter.com/pootzie_xoxo">Twitter</a>
+ </p>
   </div>
   
   <div class="column right" style="background-color:#ffffff;">
