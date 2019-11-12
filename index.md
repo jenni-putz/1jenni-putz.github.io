@@ -50,7 +50,7 @@ img {
 <body>
 
 
-<div class="row" style="width: 1500px">
+<div class="row" align="left" style="width: 1500px">
   <div class="column left" style="background-color:#aaa;">
      <img src="/headshot.jpg" style="width:200px">
      <p style="text-align:center">Jenni Putz <br />
