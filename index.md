@@ -17,8 +17,7 @@ img {
 <style>
 * {
   box-sizing: border-box;
-  float: left;
-  width: 100%;
+  left: 10px;
 }
 
 /* Create two unequal columns that floats next to each other */
@@ -56,7 +55,7 @@ img {
      University of Oregon</font></p>
   </div>
   <div class="column right" style="background-color:#bbb;">
-    <p>I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics. <br />
+    <p>test I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics. <br />
 
 {% include button.html text="Github" icon="github" link="https://github.com/jenni-putz" color="#8596B1" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/pootzie_xoxo" color="#8596B1" %} {% include button.html text="Email" icon="email" link="mailto:jputz@uoregon.edu" color="#8596B1" %} </p>
   </div>
