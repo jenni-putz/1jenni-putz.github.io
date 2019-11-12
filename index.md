@@ -4,12 +4,6 @@ feature_text: |
 feature_image: "/header.png" 
 
 ---
-   I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics.
-
-{% include button.html text="Github" icon="github" link="https://github.com/jenni-putz" color="#8596B1" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/pootzie_xoxo" color="#8596B1" %} {% include button.html text="Email" icon="email" link="mailto:jputz@uoregon.edu" color="#8596B1" %} 
-
-  
-
 
 <html>
 <head>
@@ -28,7 +22,7 @@ img {
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 50px;
+  padding: 10px;
   height: 300px; 
 }
 
