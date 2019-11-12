@@ -18,6 +18,7 @@ img {
 * {
   box-sizing: border-box;
 }
+	
 .article  article--page  content  typeset{
 	width: 100% !important; 
 }
