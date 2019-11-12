@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: | 
-feature_image: "/header3.jpg" 
+feature_image: "/header_3.jpg" 
 
 ---
 
@@ -65,6 +65,7 @@ button {
   <div class="column right" style="background-color:#ffffff;">
     <h2> Research </h2>
       <h3> Work In Progress </h3>
+	 <font size="-1">
         <ul> 
           <li> “Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </li>
         </ul>
@@ -80,6 +81,7 @@ button {
           <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pen- sacola Beach, Florida, February 2016. </li>
           <li> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Train- ing” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
         </ul>
+</font>
   </div>
 </div>
 </body>
