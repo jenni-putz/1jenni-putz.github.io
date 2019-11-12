@@ -52,7 +52,7 @@ img {
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br />
     Department of Economics <br />
-    University of Oregon</p></font>
+     University of Oregon</font></p>
   </div>
   <div class="column right" style="background-color:#bbb;">
     <h2>Column 2</h2>
