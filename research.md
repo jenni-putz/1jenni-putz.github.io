@@ -76,10 +76,10 @@ button {
         <h4> Conference Presentations </h4>
         <ul>
           <li>  “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
-          <li> “The Effects of Early College Programs on Students’ Post-Secondary Academic Per- formance” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
+          <li> “The Effects of Early College Programs on Students’ Post-Secondary Academic Performance” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
           <li> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</li>
-          <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pen- sacola Beach, Florida, February 2016. </li>
-          <li> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Train- ing” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
+          <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </li>
+          <li> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
         </ul>
 </font>
   </div>
