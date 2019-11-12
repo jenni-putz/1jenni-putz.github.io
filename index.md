@@ -27,11 +27,11 @@ img {
 }
 
 .left {
-  width: 250px;
+  width: 25%;
 }
 
 .right {
-  width: 750px;
+  width: 75%;
 }
 
 /* Clear floats after the columns */
