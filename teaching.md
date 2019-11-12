@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: | 
-feature_image: "/header2.png" 
+feature_image: "/header2.jpg" 
 ---
 <html>
 <head>
