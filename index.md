@@ -53,7 +53,7 @@ button {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot.jpg" style="width:100%">
+     <img src="/headshot.jpg" style="width:20%">
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon</font></p>
 	  
