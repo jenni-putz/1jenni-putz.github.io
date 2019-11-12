@@ -53,9 +53,10 @@ button {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot.jpg" style="width:200px">
+     <img src="/headshot.jpg" style="width:100%">
      <p style="text-align:center">Jenni Putz <br />
-   <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon</font></p>	  
+   <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon</font></p>
+	  
 {% include button.html text="Github" icon="github" link="https://github.com/jenni-putz" color="#8596B1" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/pootzie_xoxo" color="#8596B1" %} {% include button.html text="Email" icon="email" link="mailto:jputz@uoregon.edu" color="#8596B1" %} 
   </div>
   <div class="column right" style="background-color:#ffffff;">
