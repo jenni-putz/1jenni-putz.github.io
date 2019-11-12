@@ -18,11 +18,6 @@ img {
 * {
   box-sizing: border-box;
 }
-#box {
-  width: 300px;
-  padding: 10px;  
-  border: 15px solid blue;
-}
 
 /* Create two unequal columns that floats next to each other */
 .column {
@@ -50,7 +45,7 @@ img {
 <body>
 
 
-<div class="row" align="left" style="width: 1200px">
+<div class="row" align="left" style="width: 1000px">
   <div class="column left" align = "center" style="background-color:#aaa;">
      <img src="/headshot.jpg" style="width:200px">
      <p style="text-align:center">Jenni Putz <br />
