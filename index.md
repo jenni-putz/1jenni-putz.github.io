@@ -17,6 +17,8 @@ img {
 <style>
 * {
   box-sizing: border-box;
+  float: left;
+  width: 100%;
 }
 
 /* Create two unequal columns that floats next to each other */
