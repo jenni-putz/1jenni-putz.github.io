@@ -23,7 +23,7 @@ img {
 .column {
   float: left;
   padding: 10px;
-  height: 500px; 
+  height: 700px; 
 }
 
 .left {
@@ -49,10 +49,10 @@ img {
   <div class="column left" style="background-color:#aaa;">
     <h2>Column 1</h2>
      <img src="/headshot.jpg" style="width:200px">
-    <p>Jenni Putz <br />
+      <font size="-2"> <p>Jenni Putz <br />
     Doctoral Student <br />
     Department of Economics <br />
-    University of Oregon</p>
+    University of Oregon</p></font>
   </div>
   <div class="column right" style="background-color:#bbb;">
     <h2>Column 2</h2>
