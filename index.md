@@ -17,6 +17,10 @@ img {
 <style>
 * {
   box-sizing: border-box;
+   Total width: 160px
+   Total height: 80px
+   /* Content box width: 160px - (2 * 20px) - (2 * 8px) = 104px
+   Content box height: 80px - (2 * 20px) - (2 * 8px) = 24px */
 }
 
 /* Create two unequal columns that floats next to each other */
