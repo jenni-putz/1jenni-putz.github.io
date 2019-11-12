@@ -18,9 +18,9 @@ img {
 * {
   box-sizing: border-box;
 }
-{
+#box {
   width: 300px;
-  padding: 40px;  
+  padding: 10px;  
   border: 15px solid blue;
 }
 
