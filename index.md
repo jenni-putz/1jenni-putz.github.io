@@ -23,7 +23,7 @@ img {
 .column {
   float: left;
   padding: 10px;
-  height: 300px; 
+  height: 500px; 
 }
 
 .left {
@@ -48,7 +48,7 @@ img {
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <h2>Column 1</h2>
-     <img src="/headshot.jpg" style="width:200px">
+     <img src="/headshot.jpg" style="width:100px">
     <p>Jenni Putz</p>
   </div>
   <div class="column right" style="background-color:#bbb;">
