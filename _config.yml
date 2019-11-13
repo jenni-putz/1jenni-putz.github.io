@@ -101,6 +101,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
+- title: Jenni Putz
 - title: Home
   url: /
 - title: Teaching
@@ -109,6 +110,7 @@ navigation_header:
   url: /research/
 - title: CV
   url: /CV.pdf
+
 
 navigation_footer:
 - title: Powered by Jekyll and Alembic
