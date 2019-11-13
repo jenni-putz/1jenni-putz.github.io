@@ -52,7 +52,7 @@ button {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot.jpg" style="width:40%">
+     <img src="/headshot.jpg" style="width:30%">
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
    <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">    Email</a><br />
@@ -62,23 +62,23 @@ button {
   </div>
   
   <div class="column right" style="background-color:#ffffff;">
-  <h2> Teaching </h2>
-  <h3>As an independent instructor: </h3>
-    <ul>
+  <h3> Teaching </h3>
+  <h4>As an independent instructor: </h4>
+    <font size="-1"><ul>
     <li> EC 311: Intermediate Microeconomics </li>
     Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
     <li> EC 333: Resource and Environmental Economic Issues </li>
     Spring 2020 (Scheduled)
-    </ul>
-    <h3> As a lab instructor: </h3>  
-    <ul>
+    </ul></font>
+    <h4> As a lab instructor: </h4>  
+    <font size="-1"><ul>
     <li> EC 320: Introduction to Econometrics </li> 
     Fall 2018, Winter 2019
     <li> EC 421: Introduction to Econometrics </li> 
     Spring 2019, Fall 2019
     <li> EC 425/525: Econometrics (First year PhD course) </li> 
     Spring 2019
-    </ul>
+    </ul></font>
   </div>
 </div>
 
