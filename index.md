@@ -63,7 +63,7 @@ button {
    </font></p>
   </div>
   <div class="column right" style="background-color:#ffffff;">
-    <p> <font size="-1">I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics. <br /></font> </p>
+    <p> <font size="3">I am a third year PhD student at the University of Oregon. My research interests are in education, environmental, and behavioral economics. <br /></font> </p>
   </div>
 </div>
 
