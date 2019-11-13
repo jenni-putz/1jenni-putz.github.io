@@ -64,14 +64,14 @@ button {
   <div class="column right" style="background-color:#ffffff;">
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
-    <font size="-1"><ul>
+    <font size="3"><ul>
     <li> EC 311: Intermediate Microeconomics </li>
     Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
     <li> EC 333: Resource and Environmental Economic Issues </li>
     Spring 2020 (Scheduled)
     </ul></font>
     <h4> As a lab instructor: </h4>  
-    <font size="-1"><ul>
+    <font size="3"><ul>
     <li> EC 320: Introduction to Econometrics </li> 
     Fall 2018, Winter 2019
     <li> EC 421: Introduction to Econometrics </li> 
