@@ -70,7 +70,7 @@ button {
   <div class="column right" style="background-color:#ffffff;">
     <h2> Research </h2>
       <h4> Work In Progress </h4>
-	 <font size="3">
+	 <font size="4">
         <ul>
           <li> “Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </li>
         </ul>
