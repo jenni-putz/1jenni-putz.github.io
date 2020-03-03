@@ -16,7 +16,7 @@ img {
 
 li
 {
-padding-vertical: .6em;
+padding-top: .6em;
 }	
 </style>
    
