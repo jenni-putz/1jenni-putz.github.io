@@ -65,19 +65,19 @@ button {
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
     <font size="3"><ul>
-    <li> EC 311: Intermediate Microeconomics </li>
-    Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a>
-    <li> EC 333: Resource and Environmental Economic Issues </li>
-    Spring 2020 (Scheduled)
+    <li> <p style="line-height:110%"> EC 311: Intermediate Microeconomics <br>
+	    Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a></p></li>
+    <li><p style="line-height:110%"> EC 333: Resource and Environmental Economic Issues <br>
+	    Spring 2020</p></li>
     </ul></font>
     <h4> As a lab instructor: </h4>  
     <font size="3"><ul>
-    <li> EC 320: Introduction to Econometrics </li> 
-    Fall 2018, Winter 2019
-    <li> EC 421: Introduction to Econometrics </li> 
-    Spring 2019, Fall 2019, Winter 2020 <a href="https://jenniputz.com/EC421_W20_Lab/">Lab Notes</a>
-    <li> EC 425/525: Econometrics (First year PhD course) </li> 
-    Spring 2019
+    <li> <p style="line-height:110%"> EC 320: Introduction to Econometrics <br>
+	    Fall 2018, Winter 2019 </p></li>
+    <li><p style="line-height:110%"> EC 421: Introduction to Econometrics <br>
+    Spring 2019, Fall 2019, Winter 2020 <a href="https://jenniputz.com/EC421_W20_Lab/">Lab Notes</a></p></li>
+    <li> <p style="line-height:110%">EC 425/525: Econometrics (First year PhD course) <br> 
+	    Spring 2019</p></li>
     </ul></font>
   </div>
 </div>
