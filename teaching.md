@@ -75,7 +75,7 @@ button {
     <li> EC 320: Introduction to Econometrics </li> 
     Fall 2018, Winter 2019
     <li> EC 421: Introduction to Econometrics </li> 
-    Spring 2019, Fall 2019, Winter 2020 
+    Spring 2019, Fall 2019, Winter 2020 <a href="https://jenniputz.com/EC421_W20_Lab/">Lab Notes</a>
     <li> EC 425/525: Econometrics (First year PhD course) </li> 
     Spring 2019
     </ul></font>
