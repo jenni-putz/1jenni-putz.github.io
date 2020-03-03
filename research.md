@@ -13,20 +13,10 @@ feature_image: "/header_3.jpg"
 img {
   border-radius: 50%;
 }
-	
-ul
-{
-list-style-type: none;
-padding: 0;
-margin: 0;
-text-align: right;
-width: 10em;
-}
 
 li
 {
-padding-right: .6em;
-margin: 1em 0;
+padding-vertical: .6em;
 }	
 </style>
    
