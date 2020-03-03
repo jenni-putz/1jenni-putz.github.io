@@ -76,7 +76,7 @@ button {
         </ul>
         <h4> Publications </h4>
         <ul> 
-          <li><p "line-height:90%"> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </p></li>
+          <li><p style="line-height:90%"> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </p></li>
       </ul>
         <h4> Conference Presentations </h4>
         <ul>
