@@ -13,8 +13,20 @@ feature_image: "/header_3.jpg"
 img {
   border-radius: 50%;
 }
-p.small {
-  line-height: 1;
+	
+ul
+{
+list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: right;
+width: 10em;
+}
+
+li
+{
+padding-right: .6em;
+margin: 1em 0;
 }	
 </style>
    
@@ -77,13 +89,13 @@ button {
           <li> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </li>
       </ul>
         <h4> Conference Presentations </h4>
-        <p class = "small"><ul>
+        <ul>
           <li>  “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
           <li> “The Effects of Early College Programs on Students’ Post-Secondary Academic Performance” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
           <li> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</li>
           <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </li>
           <li> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
-		 </ul></p>
+        </ul>
 </font>
   </div>
 </div>
