@@ -13,6 +13,9 @@ feature_image: "/header_3.jpg"
 img {
   border-radius: 50%;
 }
+p.small {
+  line-height: 1;
+}	
 </style>
    
 <style>
@@ -63,7 +66,7 @@ button {
    </font></p>
   </div>
   <div class="column right" style="background-color:#ffffff;">
-    <h2> Research </h2>
+    <h2> Research </h2><p class = "small">
       <h4> Work In Progress </h4>
 	 <font size="3">
         <ul style=" margin-bottom: 1px;">
@@ -80,7 +83,7 @@ button {
           <li> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</li>
           <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </li>
           <li> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
-	  </ul>
+	</ul></p>
 </font>
   </div>
 </div>
