@@ -72,7 +72,7 @@ button {
       <h4> Work In Progress </h4>
 	 <font size="4">
         <ul>
-          <li> “Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </li>
+          <li> <p style="line-height:105%">“Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </p></li>
         </ul>
         <h4> Publications </h4>
         <ul> 
@@ -81,7 +81,6 @@ button {
         <h4> Conference Presentations </h4>
         <ul>
           <li> <p style="line-height:105%">  “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Southern Economic Association Conference, Washington D.C., November 2016. </p></li>
-          <li> <p style="line-height:105%"> “The Effects of Early College Programs on Students’ Post-Secondary Academic Performance” at the Southern Economic Association Conference, Washington D.C., November 2016.</p> </li>
           <li> <p style="line-height:105%"> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</p></li>
           <li><p style="line-height:105%">  “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </p></li>
           <li> <p style="line-height:105%"> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</p></li>
