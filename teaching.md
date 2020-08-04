@@ -14,6 +14,17 @@ img {
 </style>
    
 <style>
+ul{
+  list-style:none;
+  max-height:100px;
+  margin:0;
+  overflow:auto;
+  padding:0;
+  text-indent:10px;
+}
+li{
+  line-height:25px;
+}
 	
 button {
      width: 50%;
