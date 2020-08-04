@@ -71,7 +71,7 @@ button {
     <li> EC 333: Resource and Environmental Economic Issues <br>
 	    Spring 2020 - Remote Course <a href="/EC333_Syllabus_1.pdf">Syllabus</a></li>
     <li> EC 311: Intermediate Microeconomics <br>
-	    Fall 2020 (Scheduled) - Remote Course</p></li>
+	    Fall 2020 (Scheduled) - Remote Course</li>
     <li> EC 333: Resource and Environmental Economic Issues <br>
 	    Winter 2021 (Scheduled)</li>
     </ul></font>
