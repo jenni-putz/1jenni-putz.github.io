@@ -14,6 +14,10 @@ img {
 </style>
    
 <style>
+body {
+  overflow-y: auto
+}
+	
 button {
      width: 50%;
      height: 50%;
