@@ -68,7 +68,11 @@ button {
     <li> <p style="line-height:110%"> EC 311: Intermediate Microeconomics <br>
 	    Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a></p></li>
     <li><p style="line-height:110%"> EC 333: Resource and Environmental Economic Issues <br>
-	    Spring 2020</p></li>
+	    Spring 2020 - Remote Course<a href="/EC333_Syllabus_1.pdf">Syllabus</a></p></li>
+    <li> <p style="line-height:110%"> EC 311: Intermediate Microeconomics <br>
+	    Fall 2020 (Scheduled) - Remote Course</p></li>
+    <li><p style="line-height:110%"> EC 333: Resource and Environmental Economic Issues <br>
+	    Winter 2021 (Scheduled)</p></li>
     </ul></font>
     <h4> As a lab instructor: </h4>  
     <font size="4"><ul>
