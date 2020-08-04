@@ -59,7 +59,7 @@ button {
 
 
 <div class="row" align="left">
-  <div class="column left" align = "center" style="background-color:#ffffff;">
+  <div class="column left" align = "center" style="background-color:#ffffff;overflow:auto;">
      <img src="/headshot.jpg" style="width:30%">
      <p style="text-align:center">Jenni Putz <br />
    <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
@@ -69,7 +69,7 @@ button {
    </font></p>
   </div>
   
-  <div class="column right" style="background-color:#ffffff;">
+  <div class="column right" style="background-color:#ffffff;overflow:auto;">
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
     <font size="4"><ul>
@@ -82,7 +82,6 @@ button {
     <li><p style="line-height:110%"> EC 333: Resource and Environmental Economic Issues <br>
 	    Winter 2021 (Scheduled)</p></li>
     </ul></font>
-    
     <h4> As a lab instructor: </h4>  
     <font size="4"><ul>
     <li> <p style="line-height:110%"> EC 320: Introduction to Econometrics <br>
