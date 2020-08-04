@@ -89,7 +89,7 @@ button {
     <li><p>I have absolutely loved this course . The material was interesting and the instructor was knowledgeable about all of it. I was never bored during lectures and they were designed to keep my attention. Thank you for being an awesome instructor and being so accommodating. - EC 333</p>,/li>
     <li> <p>The way that Jenni presents and explains the material works very well for me and my perception is that it works well for the others in the class as well. Honestly, concepts that didn’t quite click in EC201, clicked perfectly when we reviewed them on day one of EC311. I would also like to mention a few other positive notes: She keeps us engaged; encourages participation; is prompt when replying to questions via email; is available and flexible with office hours; pauses during lecture to provide alternate explanations to problems when needed; and, because she is writing things out as she explains them, is ensuring that we are really taking in the material covered. It is clear that she takes the time to prepare for class and knows the material she is presenting backwards and sideways. - EC 311</p></li>
  <li><p>She is extremely knowledgable about what is talking about and makes concepts that are harder to grasp easier to understand. She is extremely patient and able to word explanations in multiple different ways in order for each and every student to understand. Ms. Putz is extremely approachable and creates an awesome learning environment. - EC 421 Lab</p></li>
-   </ul>
+		</ul></font>
   </div>
 </div>
 
