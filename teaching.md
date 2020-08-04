@@ -62,7 +62,7 @@ button {
    </font></p>
   </div>
   
-  <div class="column right" style="background-color:#ffffff;overflow:auto;list-style-position: relative;">
+  <div class="column right" style="background-color:#ffffff;overflow:auto;list-style-position: inside;">
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
     <font size="4"><ul>
