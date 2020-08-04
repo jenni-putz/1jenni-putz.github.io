@@ -72,7 +72,7 @@ button {
       <h4> Work In Progress </h4>
 	 <font size="4">
         <ul>
-          <li> <p style="line-height:105%">“Treatment Effects are Not Identified in the Presence of Curves and Letter Grades" (with Glen Waddell) </p></li>
+          <li> <p style="line-height:105%">“What can we learn from student performance? Identification in the presence of curves and letter grades" (with Glen Waddell) </p></li>
         </ul>
         <h4> Publications </h4>
         <ul> 
