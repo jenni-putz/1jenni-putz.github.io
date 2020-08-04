@@ -64,7 +64,7 @@ button {
   </div>
   <div class="column right" style="background-color:#ffffff;">
 	  <h3> Welcome </h3>
-    <p> <font size="4">I am a third year PhD student at the University of Oregon. My primary research interests are in education, environmental, and behavioral economics. I am particularly interested in questions related to improving academic and labor market outcomes for low-income students. <br />  
+    <p> <font size="4">I am a fourth year PhD student at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education, and environmental economics. I teach courses in intermediate microeconomics and environmental and natural resource economics at the undergraduate level. <br />  
  </font> </p>
   </div>
 </div>
