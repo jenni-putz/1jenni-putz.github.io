@@ -14,7 +14,7 @@ img {
 </style>
    
 <style>
-li{
+ul{
 list-style-position: inside;
 }
 	
