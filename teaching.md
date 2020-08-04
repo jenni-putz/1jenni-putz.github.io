@@ -14,11 +14,6 @@ img {
 </style>
    
 <style>
-.my-class{
-    max-height: 100px;
-    overflow-y: scroll;
-    list-style-position: inside;
-}
 	
 button {
      width: 50%;
@@ -71,7 +66,7 @@ button {
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
     <font size="4"><ul>
-    <li> <p style="line-height:110%"> EC 311: Intermediate Microeconomics <br>
+    <li list-style-position: inside;> <p style="line-height:110%"> EC 311: Intermediate Microeconomics <br>
 	    Summer 2019 <a href="/EC311Syllabus.pdf">Syllabus</a></p></li>
     <li><p style="line-height:110%"> EC 333: Resource and Environmental Economic Issues <br>
 	    Spring 2020 - Remote Course <a href="/EC333_Syllabus_1.pdf">Syllabus</a></p></li>
