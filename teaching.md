@@ -14,13 +14,6 @@ img {
 </style>
    
 <style>
-html {
-  min-height: 100%;
-}
-	
-body {
-  overflow-y: auto
-}
 	
 button {
      width: 50%;
