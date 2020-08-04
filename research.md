@@ -67,23 +67,23 @@ button {
    <i class="fab fa-twitter-square"></i><a href="https://twitter.com/pootzie_xoxo">    Twitter</a>
    </font></p>
   </div>
-  <div class="column right" style="background-color:#ffffff;">
+  <div class="column right" style="background-color:#ffffff;overflow:auto;list-style-position: inside;">
     <h2> Research </h2>
       <h4> Work In Progress </h4>
 	 <font size="4">
         <ul>
-          <li> <p style="line-height:105%">“What can we learn from student performance? Identification in the presence of curves and letter grades" (with Glen Waddell) </p></li>
+          <li>“What can we learn from student performance? Identification in the presence of curves and letter grades" (with Glen Waddell)</li>
         </ul>
         <h4> Publications </h4>
         <ul> 
-          <li><p style="line-height:105%"> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </p></li>
+          <li> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </li>
       </ul>
         <h4> Conference Presentations </h4>
         <ul>
-          <li> <p style="line-height:105%">  “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Southern Economic Association Conference, Washington D.C., November 2016. </p></li>
-          <li> <p style="line-height:105%"> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</p></li>
-          <li><p style="line-height:105%">  “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </p></li>
-          <li> <p style="line-height:105%"> “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</p></li>
+          <li> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Southern Economic Association Conference, Washington D.C., November 2016. </li>
+          <li> “Income Inequality and Industrial Composition: Assessing Industry Type, Size, and Volume” at the Western Economic Association International Conference, Portland, Oregon, July 2016.</li>
+          <li> “The Effect of Short-Term Study Abroad Experience on Students’ Leadership Skills and Career Aspirations” at the Academy of Economics and Finance Conference, Pensacola Beach, Florida, February 2016. </li>
+          <li>  “A Symbiotic Relationship?: The Ethics of First Year Writing’s Role in Tutor Training” at the East Central Writing Center Association Conference, South Bend, Indiana, March 2015.</li>
         </ul>
 </font>
   </div>
