@@ -67,10 +67,10 @@ button {
   <h4>As an independent instructor: </h4>
     <font size="4"><ul>
     <li> EC 311: Intermediate Microeconomics <br>
-	    Summer 2019  <a href="/EC311Syllabus.pdf">Syllabus</a></li> <br>
+	    Summer 2019  <a href="/EC311Syllabus.pdf">Syllabus</a><br>
 	    Fall 2020 - Remote Course <a href="/EC311_F20_Syllabus.pdf">Syllabus</a></li>
     <li> EC 333: Resource and Environmental Economic Issues <br>
-	    Spring 2020 - Remote Course <a href="/EC333_Syllabus_1.pdf">Syllabus</a></li> <br>
+	    Spring 2020 - Remote Course <a href="/EC333_Syllabus_1.pdf">Syllabus</a><br>
 	    Winter 2021 - Remote Course(Scheduled)</li>
     </ul></font>
     <h4> As a lab instructor: </h4>  
