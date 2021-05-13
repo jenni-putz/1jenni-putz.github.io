@@ -72,6 +72,8 @@ button {
       <h4> Work In Progress </h4>
 	 <font size="4">
         <ul>
+          <li>“Making FAFSA Mandatory: An Evaluation of Louisiana’s Financial Aid Submission Policy on College Enrollment and Pell Grant Awards"</li>
+	  <li>“Reading Resources and Student Achievement: Evidence from the Michigan Culture of Reading Program"</li>
           <li>“What can we learn from student performance? Identification in the presence of curves and letter grades" (with Glen Waddell)</li>
         </ul>
         <h4> Publications </h4>
