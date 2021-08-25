@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: | 
-feature_image: "/header.png"
+/* feature_image: "/header.png"
 layout: page
 ---
 
@@ -54,7 +54,7 @@ button {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot.jpg" style="width:30%">
+     <img src="/headshot1.jpg" style="width:30%">
      <p style="text-align:center">Jenni Putz <br />
   <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
    <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">    Email</a><br />
@@ -64,7 +64,7 @@ button {
   </div>
   <div class="column right" style="background-color:#ffffff;">
 	  <h3> Welcome </h3>
-    <p> <font size="4">I am a fourth year PhD student at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics, the economics of education, and environmental economics. I teach courses in intermediate microeconomics and environmental and natural resource economics at the undergraduate level. <br />  
+    <p> <font size="4">I PhD candidate in economics at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics and the economics of education. I teach undergraduate courses in intermediate microeconomics, econometrics and environmental and natural resource economics. <br />  
  </font> </p>
   </div>
 </div>
