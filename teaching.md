@@ -48,8 +48,6 @@ intuitive understanding of the problems to explain the relationship between mark
     <li>The way that Jenni presents and explains the material works very well for me and my perception is that it works well for the others in the class as well. Honestly, concepts that didn’t quite click in EC201, clicked perfectly when we reviewed them on day one of EC311... She keeps us engaged; encourages participation; is prompt when replying to questions via email; is available and flexible with office hours; pauses during lecture to provide alternate explanations to problems when needed; and, because she is writing things out as she explains them, is ensuring that we are really taking in the material covered. It is clear that she takes the time to prepare for class and knows the material she is presenting backwards and sideways. - EC 311</li>
  <li>She is extremely knowledgable about what is talking about and makes concepts that are harder to grasp easier to understand. She is extremely patient and able to word explanations in multiple different ways in order for each and every student to understand. Ms. Putz is extremely approachable and creates an awesome learning environment. - EC 421 Lab</li>
 </ul></font>
-  </div>
-</div>
 
 </body>
 </html>
