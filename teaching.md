@@ -17,9 +17,9 @@ img {
 </head>
 <body>
 
-  <h1 style="font-size:60px;"> Teaching </h1>
+  <h1 style="font-size:50px; text-align:center;"> Teaching </h1>
 	<hr>
-<font size="4"><p>At the University of Oregon, I have taught six undergraduate courses as an instructor of record--in econometrics, intermediate microeconomic theory, and environmental and natural resource economics. These were large courses that also involved managing teaching assistants. I have also been a teaching assistant for six econometrics courses, including the first-year PhD econonmetrics course. I received the 2021 Department of Economics Graduate Teaching Award. Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback. Note that the University of Oregon has transitioned away from quantitative teaching evaluations, so the bulk of my feedback is qualitative.</p></font>
+<font size="4"><p>At the University of Oregon, I have taught six undergraduate courses as an instructor of record--in econometrics, intermediate microeconomic theory, and environmental and natural resource economics. These were large courses that also involved managing teaching assistants. I have also been a teaching assistant for six econometrics courses, including the first-year PhD econonmetrics course. I received the 2021 Department of Economics Graduate Teaching Award. Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback. Note that the University of Oregon transitioned away from quantitative teaching evaluations in Fall 2019, so most of my feedback is qualitative.</p></font>
 	
 <font size="4"><p>[link to teaching statement here when finished]  and [link to eval summary here when finished] </p></font>
   <h6>As an independent instructor: </h6>
@@ -44,7 +44,7 @@ intuitive understanding of the problems to explain the relationship between mark
     </ul></font>
  
  <h6>Selected Student Feedback: </h6>
-<font size="4"><ul id="menu">
+<font size="4"><ul>
 	<p>[link to eval stuff here when finished] </p>
     <li> It was an awesome class, I hope Prof. Putz continues to teach economics at the UO, her future students will be very lucky when they have her as an instructor. - EC 333</li>
     <li>I have absolutely loved this course . The material was interesting and the instructor was knowledgeable about all of it. I was never bored during lectures and they were designed to keep my attention. Thank you for being an awesome instructor and being so accommodating. - EC 333</li>
