@@ -18,11 +18,13 @@ img {
 <body>
 
   <h3> Teaching </h3>
-<font size="4"><p>[link to teaching statement here when finished] </p> <p>[link to eval summary here when finished] </p></font>
+<font size="4"><p>At the University of Oregon, I have taught six undergraduate courses as an instructor of record--in econometrics, intermediate microeconomic theory, and environmental and natural resource economics. These were large courses that also involved managing teaching assistants. I have also been a teaching assistant for six econometrics courses, including the first-year PhD econonmetrics course. I received the 2021 Department of Economics Graduate Teaching Award. Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback. Note that the University of Oregon has transitioned away from quantitative teaching evaluations, so the bulk of my feedback is qualitative.<p></font>
+	
+<font size="4"><p>[link to teaching statement here when finished]  and [link to eval summary here when finished] </p></font>
   <h4>As an independent instructor: </h4>
     <font size="4"><ul id="menu">
-	    <li> <b>EC 311: Intermediate Microeconomics</b> (Summer 2019, Fall 2020) <br>
-	    <a href="/EC311Syllabus.pdf">Syllabus </a><a href="/EC311_F20_Syllabus.pdf"> Remote Syllabus</a></li>
+	    <li> <b>EC 311: Intermediate Microeconomics</b> (Summer 2019, Fall 2020, Spring 2022 (scheduled)) <br>
+	    <a href="/EC311Syllabus.pdf">Syllabus, </a><a href="/EC311_F20_Syllabus.pdf">  Remote Syllabus</a></li>
 	    <p> The objective of this course is to provide students with an overview of the most important theoretical concepts in microeconomics. Upon completing the course, students should feel comfortable solving the mathematical problems that allow them to build basic models of markets and using their
 intuitive understanding of the problems to explain the relationship between market inputs--like preferences, technologies, and costs--and market outputs--like price and quantity. The most important mathematical objective is to develop the ability to perform constrained optimization in the context of these classic economic problems. </p>
 	    <li> <b>EC 333: Resource and Environmental Economic Issues</b> (Spring 2020, Winter 2021) <br>
