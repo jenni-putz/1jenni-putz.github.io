@@ -13,7 +13,7 @@ img {
 }
 </style>
    
-
+<style>
 	
 * {
   box-sizing: border-box;
