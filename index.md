@@ -13,11 +13,7 @@ img {
 }
 </style>
    
-<style>
-button {
-     width: 50%;
-     height: 50%;
-}
+
 	
 * {
   box-sizing: border-box;
