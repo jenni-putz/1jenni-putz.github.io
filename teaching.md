@@ -1,7 +1,5 @@
 ---
 title: 
-feature_text: | 
-feature_image: "/header_4.jpg" 
 ---
 <html>
 <head>
@@ -12,79 +10,34 @@ img {
   border-radius: 50%;
 }
 </style>
-   
-<style>
-	
-button {
-     width: 50%;
-     height: 50%;
-}
-	
-* {
-  box-sizing: border-box;
-}
-	
-
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 0px;
-  height: 700px; 
-}
-
-.left {
-  width: 40%;
-}
-
-.right {
-  width: 60%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
 </head>
 <body>
 
-
-<div class="row" align="left">
-  <div class="column left" align = "center" style="background-color:#ffffff;overflow:auto;">
-     <img src="/headshot.jpg" style="width:30%">
-     <p style="text-align:center">Jenni Putz <br />
-   <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
-   <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">    Email</a><br />
-   <i class="fab fa-github-square"></i><a href="https://github.com/jenni-putz">    Github</a><br />
-   <i class="fab fa-twitter-square"></i><a href="https://twitter.com/pootzie_xoxo">    Twitter</a>
-   </font></p>
-  </div>
-  
-  <div class="column right" style="background-color:#ffffff;overflow:auto;list-style-position: inside;">
   <h3> Teaching </h3>
   <h4>As an independent instructor: </h4>
     <font size="4"><ul>
-    <li> EC 311: Intermediate Microeconomics <br>
-	    Summer 2019  <a href="/EC311Syllabus.pdf">Syllabus</a><br>
-	    Fall 2020 - Remote Course <a href="/EC311_F20_Syllabus.pdf">Syllabus</a></li>
-    <li> EC 333: Resource and Environmental Economic Issues <br>
-	    Spring 2020 - Remote Course <a href="/EC333_Syllabus_1.pdf">Syllabus</a><br>
-	    Winter 2021 - Remote Course(Scheduled)</li>
+    <li> EC 311: Intermediate Microeconomics (Summer 2019, Fall 2020) <br>
+	    <a href="/EC311Syllabus.pdf">Syllabus</a><a href="/EC311_F20_Syllabus.pdf">Remote Syllabus</a></li>
+	    <p> The objective of this course is to provide students with an overview of the most important theoretical concepts in microeconomics. Upon completing the course, students should feel comfortable solving the mathematical problems that allow them to build basic models of markets and using their
+intuitive understanding of the problems to explain the relationship between market inputs--like preferences, technologies, and costs--and market outputs--like price and quantity. The most important mathematical objective is to develop the ability to perform constrained optimization in the context of these classic economic problems. </p>
+    <li> EC 333: Resource and Environmental Economic Issues (Spring 2020, Winter 2021) <br>
+	    <a href="/EC333_Syllabus_1.pdf">Syllabus</a><br></li>
+	    <p> This course focuses on applying basic economic theory to natural and environmental resources problems. Topics include economic perspectives on the concepts of sustainability and natural resource scarcity for nonrenewable or depletable resources, optimal management of renewable resources, and pollution management strategies. By the end of the course, students will be familiar with the economic models pertaining to issues of allocation and management of natural resources and environmental goods, have an expanded understanding of externalities, and will be familiar with how economists conduct benefit-cost analysis of alternative allocations of environmental goods where markets do not exist. </p>
+    <li> EC 320: Introduction to Econometrics (I) (Summer 2021, Fall 2021) <br>
+	    <a href="/EC320_Syllabus_Summer21.pdf">Syllabus</a><br></li>
+	    <p> This course introduces the statistical techniques that help economists learn about the world using data--with much of the course focusing on regression analysis. Using calculus and introductory statistics, we will cultivate a working understanding of the theory underpinning regression analysis. During the course, students will apply the insights of theory to work with and learn from actual data using R, a statstical programming language. By the end of the course, students will be able to understand the theory behind linear regression, estimate a linear regression using R, identify the conditions for OLS validity, and interpret the results.	    
     </ul></font>
     <h4> As a lab instructor: </h4>  
     <font size="4"><ul>
-    <li> EC 320: Introduction to Econometrics <br>
-	    Fall 2018, Winter 2019 </li>
-    <li> EC 421: Introduction to Econometrics <br>
-    Spring 2019, Fall 2019, Winter 2020 <a href="https://jenniputz.com/EC421_W20_Lab/">Lab Notes</a></li>
-    <li> EC 425/525: Econometrics (First year PhD course) <br> 
-	    Spring 2019</li>
+    <li> EC 320: Introduction to Econometrics (I) (Fall 2018, Winter 2019)</li>
+    <li> EC 421: Introduction to Econometrics (II) (Spring 2019, Fall 2019, Winter 2020) <br>
+    <a href="https://jenniputz.com/EC421_W20_Lab/">Lab Notes</a></li>
+    <li> EC 425/525: Econometrics (First year PhD course) (Spring 2019)</li>
     </ul></font>
  
  <h4>Selected Student Feedback: </h4>
 	<font size="4"><ul>
+	<p>[link to eval stuff here when finished] </p>
     <li> It was an awesome class, I hope Prof. Putz continues to teach economics at the UO, her future students will be very lucky when they have her as an instructor. - EC 333</li>
     <li>I have absolutely loved this course . The material was interesting and the instructor was knowledgeable about all of it. I was never bored during lectures and they were designed to keep my attention. Thank you for being an awesome instructor and being so accommodating. - EC 333</li>
     <li>The way that Jenni presents and explains the material works very well for me and my perception is that it works well for the others in the class as well. Honestly, concepts that didn’t quite click in EC201, clicked perfectly when we reviewed them on day one of EC311... She keeps us engaged; encourages participation; is prompt when replying to questions via email; is available and flexible with office hours; pauses during lecture to provide alternate explanations to problems when needed; and, because she is writing things out as she explains them, is ensuring that we are really taking in the material covered. It is clear that she takes the time to prepare for class and knows the material she is presenting backwards and sideways. - EC 311</li>
