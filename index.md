@@ -9,7 +9,9 @@ layout: page
 <script src="https://kit.fontawesome.com/4ddc2e813a.js" crossorigin="anonymous"></script>
 <style>
 img {
-  border-radius: 100%;
+  object-fit: cover;
+  width:300px;
+  height:300px;
 }
 </style>
    
@@ -48,7 +50,7 @@ img {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot1.jpg" style="width:100%">
+     <img src="/headshot1.jpg" style="width:50%">
      <p style="text-align:center">Jenni Putz <br />
   <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
    <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">    Email</a><br />
