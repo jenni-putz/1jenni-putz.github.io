@@ -1,6 +1,5 @@
 ---
 title: Research
-feature_text: Research
 ---
 
 <html>
