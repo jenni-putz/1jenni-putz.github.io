@@ -22,6 +22,7 @@ padding-top: .2em;
 </style>
 </head>
 <body>
+	<hr>
       <h6> Working Papers </h6>
 	 <font size="4">
         <ul id="menu">
