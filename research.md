@@ -1,5 +1,6 @@
 ---
 title: Research
+feature_text: Research
 ---
 
 <html>
@@ -22,10 +23,7 @@ padding-top: .2em;
 </style>
 </head>
 <body>
-
-    <h1 style="font-size:50px; text-align:center;"> Research </h1>
-	<hr>
-      <h6> Work In Progress </h6>
+      <h6> Working Papers </h6>
 	 <font size="4">
         <ul id="menu">
           <li><b>Making FAFSA Mandatory: An Evaluation of Louisiana’s Financial Aid Submission Policy on College Enrollment and Pell Grant Awards</b> (Job Market Paper)</li>
