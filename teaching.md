@@ -43,7 +43,6 @@ intuitive understanding of the problems to explain the relationship between mark
  
  <h6>Selected Student Feedback: </h6>
 <font size="4"><ul>
-	<p>[link to eval stuff here when finished] </p>
     <li> It was an awesome class, I hope Prof. Putz continues to teach economics at the UO, her future students will be very lucky when they have her as an instructor. - EC 333</li>
     <li>I have absolutely loved this course . The material was interesting and the instructor was knowledgeable about all of it. I was never bored during lectures and they were designed to keep my attention. Thank you for being an awesome instructor and being so accommodating. - EC 333</li>
     <li>The way that Jenni presents and explains the material works very well for me and my perception is that it works well for the others in the class as well. Honestly, concepts that didn’t quite click in EC201, clicked perfectly when we reviewed them on day one of EC311... She keeps us engaged; encourages participation; is prompt when replying to questions via email; is available and flexible with office hours; pauses during lecture to provide alternate explanations to problems when needed; and, because she is writing things out as she explains them, is ensuring that we are really taking in the material covered. It is clear that she takes the time to prepare for class and knows the material she is presenting backwards and sideways. - EC 311</li>
