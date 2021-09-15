@@ -17,7 +17,7 @@ img {
 </head>
 <body>
 	<hr>
-<font size="4"><p>At the University of Oregon, I have taught six undergraduate courses as an instructor of record--in econometrics, intermediate microeconomic theory, and environmental and natural resource economics. These were large courses that also involved managing teaching assistants. I have also been a teaching assistant for six econometrics courses, including the first-year PhD econometrics course. I received the 2021 Department of Economics Graduate Teaching Award. Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback. Note that the University of Oregon transitioned away from quantitative teaching evaluations in Fall 2019, so most of my feedback is qualitative. <br>
+<font size="4"><p>At the University of Oregon, I have taught seven undergraduate courses as an instructor of record--in econometrics, intermediate microeconomic theory, and environmental and natural resource economics. These were large courses that also involved managing teaching assistants. I have also been a teaching assistant for six econometrics courses, including the first-year PhD econometrics course. I received the 2021 Department of Economics Graduate Teaching Award. Below, you can find summaries of the courses I have taught, along with syllabi, other course materials, and examples of student feedback. Note that the University of Oregon transitioned away from quantitative teaching evaluations in Fall 2019, so most of my feedback is qualitative. <br>
 For a complete report of all of my course evaluations and student comments, please <a href="/resources/course_evals_summary.pdf">click here.</a>	
 </p></font>
 
