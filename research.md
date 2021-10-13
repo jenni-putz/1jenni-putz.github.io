@@ -36,6 +36,10 @@ padding-top: .2em;
 		<p>  <br> Grade-based performance measures are routinely relied on when considering the efficacy of policy innovation. Yet, it is common for measures of student performance to be transformed—subjected to a curve and discretized through letter-grade transformations. We show how transformed grades systematically challenge the identification of unbiased estimates of the effect of intervention. In particular, curves can introduce false patterns of treatment heterogeneity, attenuating measured
 responses to treatment among high-performing students, for example, or inflating measured responses among low-performing students. Even without explicit curving, transformations to letter grades can be particularly problematic, yielding estimates that are weighted combinations of (i) inflated treatment effects for students around letter-grade thresholds and (ii) “zeros” for those away from thresholds. </p>
         </ul>
+	<h6> Works in Progress </h6>	
+        <ul id="menu">
+          <li> "The Academic Impact of the USDA Fresh Fruits and Vegetables Program in Illinois Elementary Schools"</li>
+		 </ul>
         <h6> Publications </h6>
         <ul> 
           <li> Geyer, A., Putz, J. and Misra, K. (2017),<a href = "https://www.emerald.com/insight/content/doi/10.1108/IJEM-10-2016-0203/full/html">"The effect of short-term study abroad experience on American students’ leadership skills and career aspirations" </a> , International Journal of Educational Management, Vol. 31 No. 7, pp. 1042-1053 </li>
