@@ -4,6 +4,16 @@ layout: page
 ---
 
 <html>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BB025T7N1Q"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BB025T7N1Q');
+</script>
+	
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script src="https://kit.fontawesome.com/4ddc2e813a.js" crossorigin="anonymous"></script>
