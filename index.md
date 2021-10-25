@@ -5,13 +5,13 @@ layout: page
 
 <html>
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BB025T7N1Q"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHLED29ER3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-BB025T7N1Q');
+  gtag('config', 'G-EHLED29ER3');
 </script>
 	
 <head>
