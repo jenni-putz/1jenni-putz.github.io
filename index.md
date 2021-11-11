@@ -69,7 +69,7 @@ img {
   </div>
   <div class="column right" style="background-color:#ffffff;">
 	  <h3> Welcome </h3>
-    <p> <font size="4">I am a PhD candidate in economics at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics and the economics of education. I teach undergraduate courses in intermediate microeconomics, econometrics and environmental and natural resource economics. <br />  
+    <p> <font size="4">I am a PhD candidate in economics at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics and the economics of education. I teach undergraduate courses in intermediate microeconomics, econometrics, and environmental and natural resource economics. <br />  
 	   <br />
 I am on the 2021-2022 job market and will be interviewing as part of the ASSA 2022 Conference. <br />
  </font> </p>
