@@ -60,7 +60,7 @@ img {
 
 <div class="row" align="left">
   <div class="column left" align = "center" style="background-color:#ffffff;">
-     <img src="/headshot1.jpg" style="width:50%">
+     <img src="/headshot_1.jpg" style="width:50%">
      <p style="text-align:center">Jenni Putz <br />
   <font size="-1"> Assistant Professor <br /> Department of Economics <br /> Eastern Michigan University <br />	  
    <i class="fas fa-envelope"></i> <a href="mailto:jputz2@emich.edu">    Email</a><br />
