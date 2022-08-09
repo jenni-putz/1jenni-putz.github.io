@@ -62,16 +62,14 @@ img {
   <div class="column left" align = "center" style="background-color:#ffffff;">
      <img src="/headshot1.jpg" style="width:50%">
      <p style="text-align:center">Jenni Putz <br />
-  <font size="-1"> Doctoral Student <br /> Department of Economics <br /> University of Oregon <br />	  
-   <i class="fas fa-envelope"></i> <a href="mailto:jputz@uoregon.edu">    Email</a><br />
+  <font size="-1"> Assistant Professor <br /> Department of Economics <br /> Eastern Michigan University <br />	  
+   <i class="fas fa-envelope"></i> <a href="mailto:jputz2@emich.edu">    Email</a><br />
    <i class="fab fa-github-square"></i><a href="https://github.com/jenni-putz">    Github</a><br />
    </font></p>
   </div>
   <div class="column right" style="background-color:#ffffff;">
 	  <h3> Welcome </h3>
-    <p> <font size="4">I am a PhD candidate in economics at the University of Oregon. I am an applied microeconomist with broad research interests in applied microeconometrics and the economics of education. I teach undergraduate courses in intermediate microeconomics, econometrics, and environmental and natural resource economics. <br />  
-	   <br />
-I am on the 2021-2022 job market and will be interviewing as part of the ASSA 2022 Conference. <br />
+    <p> <font size="4">I am an Assistant Professor of Economics at Eastern Michigan University. I am an applied microeconomist with broad research interests in applied microeconometrics and the economics of education. My current research focuses on education policy that relates closely to improving access and equity in education, improving student achievement, and analyzing barriers to higher education for traditionally underrepresented groups.  <br />  
  </font> </p>
   </div>
 </div>
